@@ -6,7 +6,7 @@
 import math
 import sys
 
-#some classy into text. Really gotta class the place up
+#Add some class into text. Really gotta class the place up
 
 ExitInfo = 'To exit this program hit 1 then enter'
 RegularInfo = 'This code can handle values between 0 and .5.'
