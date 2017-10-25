@@ -3,4 +3,6 @@
 
 Cmcalc.py will determine corrected map distances (CM) based on relative frequency (RF) inputs and log them to a CSV file of your choice.
 
+Poisson.py is a simple poisson distribution calculator. Inputs are mean and I value.
+
 These programs will run on Python with no dependencies.
